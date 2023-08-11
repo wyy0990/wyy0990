@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub Profile👋
 
+## About Me
+- :mortar_board: postgraduate student & structural engineer
+- :space_invader:gamer
+- :ghost: anime enthusiast
+
+## Connect with Me
+- LinkedIn: LinkedIn Profile](linkedin.com/in/yuyu-wang-92aa25266)
+- e-mail: [yuyu.wang@uq.edu.au](mailto:yuyu.wang@uq.edu.au)
 <!--
 **wyy0990/wyy0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
