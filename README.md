@@ -2,7 +2,7 @@
 
 ## About Me
 - :mortar_board: postgraduate student & structural engineer
-- :space_invader:gamer
+- :space_invader: gamer
 - :ghost: anime enthusiast
 
 ## Connect with Me
